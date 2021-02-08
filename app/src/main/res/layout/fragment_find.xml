@@ -9,6 +9,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
-
+        android:textSize="24sp"
+        android:text="@string/find_records_text" />
 </FrameLayout>
