@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">EuroFxrRef</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="list_records_text">Список</string>
-    <string name="find_records_text">Конвертировать</string>
-    <string name="convert">Конвертировать</string>
-    <string name="all_records">Список валют</string>
-</resources>
